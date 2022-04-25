@@ -1,1 +1,8 @@
-/* No CSS *//*# sourceMappingURL=Index.css.map */
+/* Mask group */
+
+
+position: absolute;
+width: 1311px;
+height: 855px;
+
+filter: blur(9px);
